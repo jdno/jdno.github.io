@@ -1,29 +1,27 @@
 # Site settings
-title: Grayscale
-email: your-email@domain.com
-url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Jan David Nose
+email: contact@jandavid.de
+url: http://www.jandavid.de
+description: "Software developer with a passion for testing. Motorcyclist for life. Gamer and racer in my free time."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary-dark: '#000000'
-  links: '#219ab3'
+  links: '#fff'
 
 # Footer settings
-footer: Your Website
+footer: Jan David Nose
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: https://twitter.com/SBootstrap
+    url: https://twitter.com/mostawesomejd
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: https://facebook.com/jandavid.nose
+  - title: linkedin
+    url:  https://linkedin.com/in/jandavidnose
   - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+    url: https://github.com/jdno
 
 # Build settings
 markdown: kramdown
