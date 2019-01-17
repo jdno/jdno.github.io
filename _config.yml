@@ -1,8 +1,7 @@
 # Site settings
 title: Jan David Nose
-email: contact@jandavid.de
 url: http://www.jandavid.de
-description: "Software developer with a passion for testing. Motorcyclist for life. Gamer and racer in my free time."
+description: "Software developer with a passion for testing. Motorcyclist, gamer, and racer in my free time."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -14,10 +13,6 @@ footer: Jan David Nose
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: https://twitter.com/mostawesomejd
-  - title: facebook
-    url: https://facebook.com/jandavid.nose
   - title: linkedin
     url:  https://linkedin.com/in/jandavidnose
   - title: github
